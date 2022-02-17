@@ -14,6 +14,6 @@
 
 
 ## Running App on Google GKE 
-![GKE] (https://github.com/MajlonaA/labs/blob/cfd0a91788ef98f13706b79cffd81ebd954e4582/images/GoogleGKE.png)
+![GKE](https://github.com/MajlonaA/labs/blob/cfd0a91788ef98f13706b79cffd81ebd954e4582/images/GoogleGKE.png)
 
-![GKE Hello] (https://github.com/MajlonaA/labs/blob/cfd0a91788ef98f13706b79cffd81ebd954e4582/images/GoogleGKEHello.png)
+![GKE Hello](https://github.com/MajlonaA/labs/blob/cfd0a91788ef98f13706b79cffd81ebd954e4582/images/GoogleGKEHello.png)
